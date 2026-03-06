@@ -32,4 +32,4 @@ Don't ask me why Linux is on the slow disk. Definitely not because of me not hav
 
 # With that all said, Happy Dual-Booting!
 
-[Next page](BOOT.md)
+# [Next page](BOOT.md)
