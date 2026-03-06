@@ -13,4 +13,6 @@ Now, restart AGAIN. When you arrive at windows, just click Restart with shift AG
 
 When you enter the blue screen, choose Troubleshoot, then Advanced Options. 
 
-Then, click UEFI Firmware Settings.
+Then, click UEFI Firmware Settings, then Reboot. I don't know your computer but if you want look up
+"{Your computer model} BIOS manual" and see if you can find anything related to adding boot entries. 
+If you add GRUB Bootloader to first place in the boot order, save changes and reboot. You should have a mini bootmenu to choose!
