@@ -1,4 +1,6 @@
-## creative commons
+# Copyright (C) 2026 ApplePair111
+
+[![License: CC BY-NC-SA 4.0](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/logos/cc/logomark.svg)](https://creativecommons.org/)
 
 # Attribution-NonCommercial-ShareAlike 4.0 International
 
