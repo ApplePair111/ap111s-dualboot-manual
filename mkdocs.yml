@@ -1,5 +1,7 @@
 site_name: ApplePair111's Dualboot Manual
 
+docs_dir: docs
+
 theme:
   name: readthedocs
 
