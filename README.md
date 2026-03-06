@@ -4,4 +4,4 @@ A full-on, comprehensive guide on how to dual boot windows and linux, starting f
 ## License
 
 This manual is licensed by CC By-NC-SA.
-More details in (LICENSE.md)[LICENSE.md]
+More details in [LICENSE.md](LICENSE.md)
