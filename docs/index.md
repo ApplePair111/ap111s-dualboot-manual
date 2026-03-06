@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# ap111s-dualboot-manual
+A full-on, comprehensive guide on how to dual boot windows and linux, starting from windows
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## License
 
-## Commands
+This manual is licensed by CC By-NC-SA.
+More details in [LICENSE.md](LICENSE.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Project layout
+# Let's start!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Click [this link](INTRODUCTION.md) to start!
