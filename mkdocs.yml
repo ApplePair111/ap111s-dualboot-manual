@@ -1,1 +1,9 @@
 site_name: ApplePair111's Dualboot Manual
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Introduction: INTRODUCTION.md
+  - Start: START.md
