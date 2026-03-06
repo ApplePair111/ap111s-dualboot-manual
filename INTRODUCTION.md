@@ -22,11 +22,11 @@ Disk 0 is my hard drive.
 Disk 1 is my SSD.
 Disk 2 is my USB drive.
 
-a. Linux is installed on Disk 0, Partition 4. (one thats about 195 GB)
-b. Wındows is on Disk 1, Partition 2. (about 475 GB)
-c. The Data (D:) partition is my Windows documents partition.
-d. The EFI System Partition on Disk 1 is Windows's.
-e. The EFI System Partition on Disk 0 is, you guessed it, Linux's.
+1. Linux is installed on Disk 0, Partition 4. (one thats about 195 GB)
+2. Wındows is on Disk 1, Partition 2. (about 475 GB)
+3. The Data (D:) partition is my Windows documents partition.
+4. The EFI System Partition on Disk 1 is Windows's.
+5. The EFI System Partition on Disk 0 is, you guessed it, Linux's.
 
 Don't ask me why Linux is on the slow disk. Definitely not because of me not having enough space on my PC.x
 
