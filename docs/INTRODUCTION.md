@@ -15,8 +15,9 @@ If you have questions or issues, please start an issue in the Issues page or ema
 
 <img width="1505" height="898" alt="image" src="https://github.com/user-attachments/assets/8d08390a-b02d-4910-bfb6-242a52bc4e58" />
 
+## Disk stuff
 
-## Because my computer has 2 disks, I'm gonna tell you which is which. Make sure to remember as I'll put references to lots of these.
+Because my computer has 2 disks, I'm gonna tell you which is which. Make sure to remember as I'll put references to lots of these.
 
 Disk 0 is my hard drive.
 Disk 1 is my SSD.
@@ -32,4 +33,4 @@ Don't ask me why Linux is on the slow disk. Definitely not because of me not hav
 
 # With that all said, Happy Dual-Booting!
 
-# [Next page](BOOT.md)
+
