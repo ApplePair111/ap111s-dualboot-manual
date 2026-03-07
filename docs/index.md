@@ -1,4 +1,4 @@
-# ap111s-dualboot-manual
+# ApplePair111's Dualboot Manual
 A full-on, comprehensive guide on how to dual boot windows and linux, starting from windows
 
 ## License
@@ -10,4 +10,4 @@ More details in [LICENSE.md](LICENSE.md)
 
 # Let's start!
 
-Click [this link](INTRODUCTION.md) to start!
+Click Next to start!
