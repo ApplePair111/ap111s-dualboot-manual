@@ -8,5 +8,6 @@ theme:
 nav:
   - Home: index.md
   - Introduction: INTRODUCTION.md
+  - Disk Partitioning: PARTITIONING.md
   - Start: START.md
   - Linux and Boot Setup: MINT-SETUP.md
